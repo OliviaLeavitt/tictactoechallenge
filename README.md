@@ -11,7 +11,7 @@ To set up and run the Tic-Tac-Toe game, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/tictactoechallenge.git
+    git clone https://github.com/OliviaLeavitt/tictactoechallenge.git
     ```
 
 2. **Navigate to the Project Directory:**
