@@ -55,7 +55,7 @@ Time spent on the challenge: 3 hours and 30 minutes.
 
 ## Distribution
 
-- **Executable Version**: A Windows executable version of the game is included in the `dist` directory. You can run this executable directly without needing a Python interpreter.
+- **Executable Version**: A Windows executable version of the game is included as tictactoe.exe. You can run this executable directly without needing a Python interpreter.
 
 - **Source Code**: Complete source code and necessary files for running the program are included in the repository.
 
