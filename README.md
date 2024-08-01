@@ -34,3 +34,18 @@ To start the game, use the following command:
 
 ```bash
 python tictactoe.py
+
+## Features
+    ** User vs. Computer: Play against a computer that attempts to block your winning moves and makes random moves otherwise.
+    ** Console-based Interface: The game board and instructions are displayed in the terminal.
+
+## Notes
+** The game board is displayed in the console.
+** The computer's strategy includes blocking the user from winning and making random moves when no immediate threat is present.
+** The game ends when there is a winner or the board is full.
+
+## Time Spent
+Time spent on the challenge: 3 hours and 30 minutes.
+
+## Contact
+Thank you for reviewing my solution! If you have any questions or need further clarification, please feel free to reach out.
