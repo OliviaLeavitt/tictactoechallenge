@@ -53,6 +53,11 @@ Follow the on-screen prompts to play the game. You will be asked to enter your m
 
 Time spent on the challenge: 3 hours and 30 minutes.
 
+## Distrubution
+
+Executable Version: A Windows executable version of the game is included in the dist directory. You can run this executable directly without needing a Python interpreter.
+Source Code: Complete source code and necessary files for running the program are included in the repository.
+
 ## Contact
 
 Thank you for reviewing my solution! If you have any questions or need further clarification, please feel free to reach out.
