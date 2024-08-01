@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my solution for the Tic-Tac-Toe programming challenge. The challenge involved creating a simple Tic-Tac-Toe game where the user plays against the computer. The game is implemented in Python and is designed to be run from the command line.
+This repository contains a simple Tic-Tac-Toe game where the user plays against the computer. The game is implemented in Python and is designed to be run from the command line. It features a basic computer opponent that attempts to block the user's winning moves and makes random moves otherwise.
 
 ## Installation
 
