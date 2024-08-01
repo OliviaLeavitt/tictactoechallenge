@@ -31,9 +31,10 @@ To set up and run the Tic-Tac-Toe game, follow these steps:
 ## Usage
 
 To start the game, use the following command:
-
 ```bash
 python tictactoe.py
+
+
 Follow the on-screen prompts to play the game. You will be asked to enter your move by specifying a row and column. The computer will make its move automatically.
 
 Features
